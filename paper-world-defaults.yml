@@ -12,18 +12,9 @@ entities:
         brewer_pottery_sherd: 2147483647
         burn_pottery_sherd: 2147483647
         calcite: 2147483647
-        chiseled_cinnabar: 2147483647
         chiseled_deepslate: 2147483647
         chiseled_tuff: 2147483647
         chiseled_tuff_bricks: 2147483647
-        cinnabar: 2147483647
-        cinnabar_bricks: 2147483647
-        cinnabar_brick_slab: 2147483647
-        cinnabar_brick_stairs: 2147483647
-        cinnabar_brick_wall: 2147483647
-        cinnabar_slab: 2147483647
-        cinnabar_stairs: 2147483647
-        cinnabar_wall: 2147483647
         coal_ore: 2147483647
         coast_armor_trim_smithing_template: 2147483647
         cobbled_deepslate: 2147483647
@@ -41,10 +32,10 @@ entities:
         dead_bush: 2147483647
         decorated_pot: 2147483647
         deepslate: 2147483647
-        deepslate_bricks: 2147483647
         deepslate_brick_slab: 2147483647
         deepslate_brick_stairs: 2147483647
         deepslate_brick_wall: 2147483647
+        deepslate_bricks: 2147483647
         deepslate_coal_ore: 2147483647
         deepslate_copper_ore: 2147483647
         deepslate_diamond_ore: 2147483647
@@ -53,10 +44,10 @@ entities:
         deepslate_iron_ore: 2147483647
         deepslate_lapis_ore: 2147483647
         deepslate_redstone_ore: 2147483647
-        deepslate_tiles: 2147483647
         deepslate_tile_slab: 2147483647
         deepslate_tile_stairs: 2147483647
         deepslate_tile_wall: 2147483647
+        deepslate_tiles: 2147483647
         diamond: 2147483647
         diamond_block: 2147483647
         diamond_horse_armor: 2147483647
@@ -82,14 +73,14 @@ entities:
         flow_pottery_sherd: 2147483647
         friend_pottery_sherd: 2147483647
         gilded_blackstone: 2147483647
+        gold_ore: 2147483647
         golden_horse_armor: 2147483647
         golden_nautilus_armor: 2147483647
-        gold_ore: 2147483647
         guster_banner_pattern: 2147483647
         guster_pottery_sherd: 2147483647
-        heartbreak_pottery_sherd: 2147483647
         heart_of_the_sea: 2147483647
         heart_pottery_sherd: 2147483647
+        heartbreak_pottery_sherd: 2147483647
         heavy_core: 2147483647
         host_armor_trim_smithing_template: 2147483647
         howl_pottery_sherd: 2147483647
@@ -101,15 +92,17 @@ entities:
         large_fern: 2147483647
         mace: 2147483647
         miner_pottery_sherd: 2147483647
+        mojang_banner_pattern: 2147483647
         mourner_pottery_sherd: 2147483647
         music_disc_5: 2147483647
-        music_disc_bounce: 2147483647
         music_disc_creator: 2147483647
         music_disc_creator_music_box: 2147483647
         music_disc_otherside: 2147483647
         music_disc_pigstep: 2147483647
         music_disc_precipice: 2147483647
         music_disc_relic: 2147483647
+        nether_gold_ore: 2147483647
+        nether_quartz_ore: 2147483647
         netherite_axe: 2147483647
         netherite_block: 2147483647
         netherite_boots: 2147483647
@@ -127,13 +120,8 @@ entities:
         netherite_sword: 2147483647
         netherite_upgrade_smithing_template: 2147483647
         netherrack: 2147483647
-        nether_gold_ore: 2147483647
-        nether_quartz_ore: 2147483647
+        piglin_banner_pattern: 2147483647
         plenty_pottery_sherd: 2147483647
-        polished_cinnabar: 2147483647
-        polished_cinnabar_slab: 2147483647
-        polished_cinnabar_stairs: 2147483647
-        polished_cinnabar_wall: 2147483647
         polished_deepslate: 2147483647
         polished_deepslate_slab: 2147483647
         polished_deepslate_stairs: 2147483647
@@ -162,20 +150,18 @@ entities:
         skull_pottery_sherd: 2147483647
         snort_pottery_sherd: 2147483647
         snout_armor_trim_smithing_template: 2147483647
-        snout_banner_pattern: 2147483647
         spire_armor_trim_smithing_template: 2147483647
         sponge: 2147483647
         spore_blossom: 2147483647
         suspicious_gravel: 2147483647
         suspicious_sand: 2147483647
         tall_grass: 2147483647
-        thing_banner_pattern: 2147483647
         tide_armor_trim_smithing_template: 2147483647
         tuff: 2147483647
-        tuff_bricks: 2147483647
         tuff_brick_slab: 2147483647
         tuff_brick_stairs: 2147483647
         tuff_brick_wall: 2147483647
+        tuff_bricks: 2147483647
         tuff_slab: 2147483647
         tuff_stairs: 2147483647
         tuff_wall: 2147483647
